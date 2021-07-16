@@ -15,15 +15,16 @@ import CameraButtons from './components/CameraButtons'
 import state from './state'
 import Lights from './components/Lights'
 import Effects from './components/Effects'
+import Card from './components/Card'
 
 
 
 function App() {
-
   return (
     <div style={{ height: '100vh', width: '100vw' }}>
       <ColorPicker/>
       <CameraButtons/>
+  
       <Canvas 
       gl ={{
         powerPreference : "high-performance",

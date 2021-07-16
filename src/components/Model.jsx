@@ -9,6 +9,7 @@ const Model = props =>{
     )
 
     // console.log(props.path, model)
+    
     let mixer
     if( model.animations.length >0){
         mixer = new THREE.AnimationMixer(model.scene)

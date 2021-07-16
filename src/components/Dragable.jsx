@@ -1,6 +1,7 @@
 import { DragControls } from 'three/examples/jsm/controls/DragControls'
 import { extend, useThree } from 'react-three-fiber'
 import { useRef, useEffect, useState } from 'react'
+import Card from './Card'
 
 extend({ DragControls })
 
@@ -24,7 +25,7 @@ const Dragable = (props) => {
     controlsRef.current.addEventListener('dragstart',
     e => {
         e.object.api?.mass.set(0)
-        // console.log(e.object.uuid)
+        console.log(e.object.uuid)
         }
     )
     controlsRef.current.addEventListener('dragend',
