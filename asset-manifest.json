@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/threejs-react-deploy-/static/css/main.a617e044.chunk.css",
-    "main.js": "/threejs-react-deploy-/static/js/main.fcf242a8.chunk.js",
-    "main.js.map": "/threejs-react-deploy-/static/js/main.fcf242a8.chunk.js.map",
-    "runtime-main.js": "/threejs-react-deploy-/static/js/runtime-main.bee7eea5.js",
-    "runtime-main.js.map": "/threejs-react-deploy-/static/js/runtime-main.bee7eea5.js.map",
-    "static/js/2.0379c2cf.chunk.js": "/threejs-react-deploy-/static/js/2.0379c2cf.chunk.js",
-    "static/js/2.0379c2cf.chunk.js.map": "/threejs-react-deploy-/static/js/2.0379c2cf.chunk.js.map",
-    "static/js/3.6406cc1b.chunk.js": "/threejs-react-deploy-/static/js/3.6406cc1b.chunk.js",
-    "static/js/3.6406cc1b.chunk.js.map": "/threejs-react-deploy-/static/js/3.6406cc1b.chunk.js.map",
-    "static/js/4.b6eb5653.chunk.js": "/threejs-react-deploy-/static/js/4.b6eb5653.chunk.js",
-    "static/js/4.b6eb5653.chunk.js.map": "/threejs-react-deploy-/static/js/4.b6eb5653.chunk.js.map",
+    "main.css": "/threejs-react-deploy-/static/css/main.b7fb9e18.chunk.css",
+    "main.js": "/threejs-react-deploy-/static/js/main.ecfbf957.chunk.js",
+    "main.js.map": "/threejs-react-deploy-/static/js/main.ecfbf957.chunk.js.map",
+    "runtime-main.js": "/threejs-react-deploy-/static/js/runtime-main.911aa7cb.js",
+    "runtime-main.js.map": "/threejs-react-deploy-/static/js/runtime-main.911aa7cb.js.map",
+    "static/js/2.00af99c5.chunk.js": "/threejs-react-deploy-/static/js/2.00af99c5.chunk.js",
+    "static/js/2.00af99c5.chunk.js.map": "/threejs-react-deploy-/static/js/2.00af99c5.chunk.js.map",
+    "static/js/3.c1ebe828.chunk.js": "/threejs-react-deploy-/static/js/3.c1ebe828.chunk.js",
+    "static/js/3.c1ebe828.chunk.js.map": "/threejs-react-deploy-/static/js/3.c1ebe828.chunk.js.map",
+    "static/js/4.f5af43f8.chunk.js": "/threejs-react-deploy-/static/js/4.f5af43f8.chunk.js",
+    "static/js/4.f5af43f8.chunk.js.map": "/threejs-react-deploy-/static/js/4.f5af43f8.chunk.js.map",
     "index.html": "/threejs-react-deploy-/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/threejs-react-deploy-/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.0379c2cf.chunk.js.LICENSE.txt": "/threejs-react-deploy-/static/js/2.0379c2cf.chunk.js.LICENSE.txt",
+    "static/css/main.b7fb9e18.chunk.css.map": "/threejs-react-deploy-/static/css/main.b7fb9e18.chunk.css.map",
+    "static/js/2.00af99c5.chunk.js.LICENSE.txt": "/threejs-react-deploy-/static/js/2.00af99c5.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/threejs-react-deploy-/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bee7eea5.js",
-    "static/js/2.0379c2cf.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.fcf242a8.chunk.js"
+    "static/js/runtime-main.911aa7cb.js",
+    "static/js/2.00af99c5.chunk.js",
+    "static/css/main.b7fb9e18.chunk.css",
+    "static/js/main.ecfbf957.chunk.js"
   ]
 }
